@@ -11,6 +11,10 @@
     text-align: center;
     }
 
+    .card {
+    margin: 0px auto;
+    }
+
     h1, h2, p {
     color: purple;
     }
