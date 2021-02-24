@@ -8,10 +8,16 @@
 @media only screen and (max-width: 540px) {
     .container {
     width: 300px;
+    text-align: center;
     }
 
-    h1, p {
+    h1, h2, p {
     color: purple;
     }
+
+    #img-kimchi {
+    width: 300px;
+    }
+
 }
 
